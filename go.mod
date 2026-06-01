@@ -38,7 +38,7 @@ require (
 	go.etcd.io/etcd/client/v3 v3.6.11
 	go.uber.org/automaxprocs v1.6.0
 	golang.org/x/crypto v0.51.0
-	golang.org/x/sys v0.44.0
+	golang.org/x/sys v0.45.0
 	google.golang.org/api v0.280.0
 	google.golang.org/grpc v1.81.1
 	google.golang.org/protobuf v1.36.11
@@ -53,7 +53,7 @@ require (
 	github.com/hashicorp/golang-lru/v2 v2.0.7
 	github.com/pires/go-proxyproto v0.12.0
 	github.com/prometheus/exporter-toolkit v0.16.0
-	golang.org/x/net v0.54.0
+	golang.org/x/net v0.55.0
 )
 
 require (
